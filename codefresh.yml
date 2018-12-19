@@ -4,12 +4,12 @@ steps:
     title: 'Building Docker Image'
     type: 'build'
     dockerfile: 'Dockerfile'
-    image_name: 'codefresh-io/twilioplugincodefresh'
+    image_name: 'codefresh/twilioplugin'
   PushDockerHub:
     title: 'Pushing to dockerhub'
     type: 'push'
     candidate: '${{BuildingDockerImage}}'
     tag: 'latest'
     registry: 'dockerhub'
-    image_name: 'codefresh-io/twilioplugincodefresh'
+    image_name: 'codefresh/twilioplugin
     
