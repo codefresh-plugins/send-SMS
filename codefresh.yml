@@ -11,5 +11,4 @@ steps:
     candidate: '${{BuildingDockerImage}}'
     tag: 'latest'
     registry: 'dockerhub'
-    image_name: 'codefresh/twilioplugin
-    
+    image_name: 'codefresh/twilioplugin'
