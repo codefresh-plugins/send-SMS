@@ -9,7 +9,7 @@ categories:
   - Featured
 sources:
   - 'https://github.com/codefresh-contrib/send-sms'
-icon: https://github.com/codefresh-plugins/send-sms/blob/master/icon.jpg
+icon: https://raw.githubusercontent.com/codefresh-plugins/send-sms/blob/master/icon.jpg
 maintainers:
   - name: Pasha Kostohrys
 envs:
