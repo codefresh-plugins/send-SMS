@@ -6,7 +6,7 @@ keywords:
   - SMS
   - notifications
 categories:
-  - Featured
+  - featured
 sources:
   - 'https://github.com/codefresh-contrib/send-sms'
 icon: https://raw.githubusercontent.com/codefresh-plugins/send-sms/master/icon.jpg
